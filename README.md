@@ -4,13 +4,11 @@
 
 # 📖 Decode Morse Code <a name="about-project"></a>
 
-**Decode Morse Code** is a ruby system to decode a message written in morse code.
+> A Ruby app that can decode any morse messages.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -33,7 +31,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link Not Available]()
+- [Not Available]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
