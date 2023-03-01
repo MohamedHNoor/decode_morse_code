@@ -127,7 +127,7 @@ I would like to thank Microverse for providing us with reading materials that ai
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
 - **Can I use this code?**
 
